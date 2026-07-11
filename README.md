@@ -1,7 +1,7 @@
 # SpikeSR (NeurIPS 2025)
 
-## 🎁 Dataset
-Please refer to [TTST](https://github.com/XY-boy/TTST) and [FMSR](https://github.com/XY-boy/FreMamba):
+## 🎁 Dataset and Usage
+Please refer to [TTST](https://github.com/XY-boy/TTST) and [FMSR](https://github.com/XY-boy/FreMamba).
 
 ## 📃 Requirements
 > * SpikingJelly 
