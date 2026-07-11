@@ -1,4 +1,4 @@
-# FreMamba (IEEE TMM 2024)
+# SpikeSR (NeurIPS 2025)
 ### 📖[**Paper**](https://ieeexplore.ieee.org/document/10817590) | 🖼️[**PDF**](/fig/TTST.pdf)
 
 PyTorch codes for "[Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution](https://ieeexplore.ieee.org/document/10817590)", **IEEE Transactions on Multimedia (TMM)**, 2024.
